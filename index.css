@@ -1,0 +1,17 @@
+.header{
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0 auto;
+    text-align: center;
+}
+.body{
+    background-color: darkgray;
+    margin: 0 auto;
+    color :black;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.video{
+    float: left;
+}
